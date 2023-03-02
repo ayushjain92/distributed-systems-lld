@@ -5,25 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba1bcb88-e486-492e-af01-a2b186bb442b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed-systems-lld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/distributedlogger/ConcurrentLogClientImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/distributedlogger/LogClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/distributedlogger/LogClientImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/remotesearchengine/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/remotesearchengine/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/remotesearchengine/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/remotesearchengine/Geo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/remotesearchengine/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/remotesearchengine/SearchService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/remotesearchengine/SearchServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/remotesearchengine/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/remotesearchengine/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/remotesearchengine/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanagement/InventoryManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanagement/model/InventoryStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanagement/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanagement/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanagement/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanagement/model/Shelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanagement/model/Size.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -57,6 +49,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",

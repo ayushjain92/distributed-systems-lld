@@ -130,7 +130,7 @@ Map<String, String> cache;
 Data Structures = Doubly Link List + HashMap
 * add(): O(1)
 * get(): O(1)
-* evict: O(1)
+* evict(): O(1)
 
 Workings:
 1. Whenever a node is used get that using Map.
@@ -180,7 +180,7 @@ Data Structures = Map + MinHeap;
 
 * add(): O(1)
 * get(): O(1)
-* evict: O(1)
+* evict(): O(1)
 
 Workings:
 1. Add the node with frequency = 1;
@@ -207,3 +207,30 @@ For Eviction:
 
 
 ------------
+
+## Inventory Management System
+
+### Requirements
+#### BR/FR
+1. Add Products
+   2. Product Location: which shelf it should go to. Assume: 3 shelfs: S/M/L
+   3. Increase Product Count
+   4. Product Price
+   5. Brand
+   6. Product weight/price
+1. Remove Product Counts
+2. Update Product Counts
+3. Get Product Counts
+4. Status of Unit
+   5. Available/Booked/Picked/Packaged/ReadyForDelivery
+6. Report EOD
+   7. Sale
+   8. Finished Products
+
+#### TR/NFR
+1. 
+
+### Structure
+
+
+-----------
