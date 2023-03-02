@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba1bcb88-e486-492e-af01-a2b186bb442b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed-systems-lld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/distributedlogger/ConcurrentLogClientImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/distributedlogger/LogClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/distributedlogger/LogClientImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/remotesearchengine/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/remotesearchengine/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/remotesearchengine/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/remotesearchengine/Geo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/remotesearchengine/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/remotesearchengine/SearchService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/remotesearchengine/SearchServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/remotesearchengine/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/remotesearchengine/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/remotesearchengine/UserServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MMRyt0ZqiRne7i9OGWYRFI5h0z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.remotesearchengine.Driver">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="distributedlogger.Driver" />
+      <module name="distributed-systems-lld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="distributedlogger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="remotesearchengine.Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="remotesearchengine.Driver" />
+      <module name="distributed-systems-lld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="remotesearchengine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.remotesearchengine.Driver" />
+        <item itemvalue="Application.Driver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba1bcb88-e486-492e-af01-a2b186bb442b" name="Changes" comment="" />
+      <created>1677575725869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677575725869</updated>
+    </task>
+    <servers />
+  </component>
+</project>
